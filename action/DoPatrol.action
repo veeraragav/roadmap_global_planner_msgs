@@ -1,0 +1,8 @@
+#goal
+roadmap_global_planner_msgs/AdjacencyList loop
+---
+#result
+bool result
+---
+#feedback
+bool feedback
